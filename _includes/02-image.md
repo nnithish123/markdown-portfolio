@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Virat Kohli](https://static-ai.asianetnews.com/images/01f0xstrrxy0tvbbac9hpz5v5b/kohli-jpg.jpg)
