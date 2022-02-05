@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+My favourite Things
+- Github
+- Programming 
+- Exercise 
+- Cricket
+- Virat Kohli
